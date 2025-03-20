@@ -14,4 +14,5 @@ the task is to fetch the data from public API...so in this code the tool has bee
 
 output : 
 
-(https://github.com/user-attachments/assets/5e994a04-2488-4b0a-9799-d0812bce6c76)
+![Image](https://github.com/user-attachments/assets/085b41cf-9179-416e-b4de-9e080b6a860b)
+
